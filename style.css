@@ -168,6 +168,47 @@ h2 {
   white-space: nowrap;
 }
 
+.bilingual-profile h2 {
+  margin-bottom: 1rem;
+}
+
+.profile-intro p {
+  font-size: 1.25rem;
+  line-height: 1.7;
+  margin: 0.3rem 0;
+}
+
+.profile-intro .zh-line {
+  font-size: 1.35rem;
+  font-weight: 500;
+}
+
+.research-keywords {
+  margin-top: 1.5rem;
+}
+
+.research-keywords h3 {
+  font-size: 1rem;
+  margin-bottom: 0.6rem;
+  color: #555;
+}
+
+.research-keywords ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.research-keywords li {
+  padding: 0.35rem 0.7rem;
+  border-radius: 999px;
+  background: #f2f2f2;
+  font-size: 0.95rem;
+
+
 .education-item ul {
   margin-top: 0.3rem;
 }
